@@ -26,7 +26,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,c,cs,cpp,java,php,dart,,py,,css,html,js,nodejs,mysql,sqlite,git,github,eclipse,vscode,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,py,css,html,js,nodejs,mysql,sqlite,git,github,eclipse,vscode,ps&perline=12" />
   </a>
 </p>
 <br>
@@ -49,7 +49,7 @@
 <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="Imagenes/Hola Mundo.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
