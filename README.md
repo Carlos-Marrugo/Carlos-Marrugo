@@ -42,7 +42,7 @@
         <img align="center" width=100% src="Imagenes/Login Hospital.jpg"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+        <a href="https://youtube.com/playlist?list=PLA96kRUo8UuCPBtocYQGAmJoYbVWRXx8i&si=K_X03T6eqXrurOoQ" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
     </p>       
 </td>
 <td width="25%" align="center">
