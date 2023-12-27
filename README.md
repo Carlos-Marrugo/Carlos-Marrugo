@@ -32,13 +32,13 @@
 <br>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2 >Tutoriales👨🏻‍💻</h2>
 
 <table align="left" >
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
+     <a href="https://youtube.com/playlist?list=PLA96kRUo8UuCPBtocYQGAmJoYbVWRXx8i&si=K_X03T6eqXrurOoQ" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
       </p>
     <p align="center">
