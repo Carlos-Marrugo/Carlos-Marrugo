@@ -43,7 +43,7 @@
       </p>
     <p align="center">
         <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="![Login Hospital](https://github.com/Carlos-Marrugo/Carlos-Marrugo/assets/140767174/b5fffe0f-7771-4cf9-bb14-98cecf6307d2)alt="@unsimpledev" /></a>
     </p>       
 </td>
 <td width="25%" align="center">
