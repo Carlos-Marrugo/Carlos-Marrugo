@@ -38,40 +38,40 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/Zve5cHTNKrM?si=-0pdlZGfdIVbByEu" title="Go to Source">
-        <img align="center" width=100% src="Imagenes/Login Hospital.jpg"   alt="VIDEO" /></a>
+     <a href="https://www.youtube.com/watch?v=u3J-fe4UFsA&t=584s" title="Go to Source">
+        <img align="center" width=100% src="Imagenes/Busqueda Binaria ED.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/Zve5cHTNKrM?si=-0pdlZGfdIVbByEu" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+        <a href="https://www.youtube.com/watch?v=u3J-fe4UFsA&t=584s" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
     </p>       
 </td>
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtube.com/playlist?list=PLA96kRUo8UuBtCaKTjKauuhgB0UwE6bPG&si=u7qxnMqbmZhsQf4L" title="Go to Source">
-        <img align="center" width=100% src="Imagenes/Hola Mundo.png"   alt="VIDEO" /></a>
+     <a href="https://www.youtube.com/watch?v=E34gH1vP3iw&list=PLA96kRUo8UuCNHV-382S9bsrgbCSe52Od&index=1&t=179s" title="Go to Source">
+        <img align="center" width=100% src="Imagenes/Notion Miniatura.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtube.com/playlist?list=PLA96kRUo8UuBtCaKTjKauuhgB0UwE6bPG&si=u7qxnMqbmZhsQf4L" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+        <a href="https://www.youtube.com/watch?v=E34gH1vP3iw&list=PLA96kRUo8UuCNHV-382S9bsrgbCSe52Od&index=1&t=179s" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
     </p>       
 </td>
   
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/tk6OgnNTLJs?si=oGAMudhzXBAwAtT2" title="Ver Video">
-        <img align="center" width=100% src="Imagenes/Empleados p1.png"   alt="VIDEO" /></a>
+     <a href="https://www.youtube.com/watch?v=EE23Koza6_w&t=10s" title="Ver Video">
+        <img align="center" width=100% src="Imagenes/PHP LOGIN P1.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/tk6OgnNTLJs?si=oGAMudhzXBAwAtT2" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+        <a href="https://www.youtube.com/watch?v=EE23Koza6_w&t=10s" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
     </p>       
 </td>
 
    <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/LjCmm4iLgmk?si=w80HtF99Z9Is4d_6" title="Ver Video">
-        <img align="center" width=100% src="Imagenes/promedio arreglo.png"   alt="VIDEO" /></a>
+     <a href="https://www.youtube.com/watch?v=BASwKN-t_Jc&t=4s" title="Ver Video">
+        <img align="center" width=100% src="Imagenes/JAVA 0 INTRO 1.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/LjCmm4iLgmk?si=w80HtF99Z9Is4d_6" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+        <a href="https://www.youtube.com/watch?v=BASwKN-t_Jc&t=4s" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
      </a>
     </p>       
 </td>
