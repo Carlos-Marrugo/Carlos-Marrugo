@@ -101,3 +101,5 @@
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo)](https://github.com/Carlos-Marrugo/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo&show_icons=true)
