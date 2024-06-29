@@ -104,26 +104,26 @@
 <br>
 
 <h2 align="left">Recursos y Libros 📚</h2>
-<ul>
-  <li>
+<div align="center">
+  <div style="border: 1px solid #4CAF50; border-radius: 5px; padding: 10px; margin-bottom: 10px; width: 80%;">
     <p align="left">
-      <strong>Libro de POO - Java (Ingles) ~ Recomiendo</strong><br>
+      <strong>Libro de POO - Java (Inglés) ~ Recomiendo</strong><br>
       <a href="https://www.ms.sapientia.ro/~manyi/teaching/oop/oop_java.pdf" target="blank">-> Descargar</a>
     </p>
-  </li>
-  <li>
+  </div>
+  <div style="border: 1px solid #4CAF50; border-radius: 5px; padding: 10px; margin-bottom: 10px; width: 80%;">
     <p align="left">
       <strong>Libro de Data Structure ~ Recomiendo</strong><br>
       <a href="https://dl.ebooksworld.ir/motoman/Wiley.Data.Structures.and.Algorithms.in.Java.6th.Edition.www.EBooksWorld.ir.pdf" target="blank">-> Descargar</a>
     </p>
-  </li>
-  <li>
+  </div>
+  <div style="border: 1px solid #4CAF50; border-radius: 5px; padding: 10px; margin-bottom: 10px; width: 80%;">
     <p align="left">
-      <strong>Libro de Programacion Funcional (Java) ~ Recomiendo</strong><br>
+      <strong>Libro de Programación Funcional (Java) ~ Recomiendo</strong><br>
       <a href="https://github.com/sergarb1/JavaFuncional/blob/master/Java%20-%20Programacion%20Funcional.pdf" target="blank">-> Descargar</a>
     </p>
-  </li>
-</ul>
+  </div>
+</div>
 
 <br>
 
@@ -135,4 +135,5 @@
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Marrugo&layout=compact&theme=dark" alt="Top Langs" />
 </p>
+
 
