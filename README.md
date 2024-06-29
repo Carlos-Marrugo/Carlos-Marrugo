@@ -1,3 +1,6 @@
+<!-- Banner -->
+<img src="Imagenes/funny-coding-x8zwu5ndan6x9ovx.jpg" alt="Banner" width="100%">
+
 <h1 align="center">Hola 👋, soy Carlos Marrugo / @carlosdev ✨</h1>
 
 <p align="center">
@@ -97,6 +100,8 @@
 <!-- Puedes agregar más secciones según sea necesario -->
 <!-- Por ejemplo, si deseas incluir estadísticas de GitHub -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo&show_icons=true)](https://github.com/Carlos-Marrugo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Marrugo&layout=compact)](https://github.com/Carlos-Marrugo/github-readme-stats&layout=compact)
-
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo&show_icons=true&theme=dark" alt="Carlos Marrugo's GitHub stats" />
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Marrugo&layout=compact&theme=dark" alt="Top Langs" />
+</p>
