@@ -108,13 +108,13 @@
   <li>
     <p align="left">
       <strong>Libro de POO - Java (Ingles) ~ Recomiendo</strong><br>
-      <a href="[link_de_descarga_1](https://www.ms.sapientia.ro/~manyi/teaching/oop/oop_java.pdf)" target="blank">-> Descargar</a>
+      <a href="https://www.ms.sapientia.ro/~manyi/teaching/oop/oop_java.pdf" target="blank">-> Descargar</a>
     </p>
   </li>
   <li>
     <p align="left">
       <strong>Libro de Data Structure ~ Recomiendo</strong><br>
-      <a href="[link_de_descarga_2](https://dl.ebooksworld.ir/motoman/Wiley.Data.Structures.and.Algorithms.in.Java.6th.Edition.www.EBooksWorld.ir.pdf)" target="blank">-> Descargar</a>
+      <a href="https://dl.ebooksworld.ir/motoman/Wiley.Data.Structures.and.Algorithms.in.Java.6th.Edition.www.EBooksWorld.ir.pdf" target="blank">-> Descargar</a>
     </p>
   </li>
   <li>
