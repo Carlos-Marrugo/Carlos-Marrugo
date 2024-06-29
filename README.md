@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="Imagenes/127.0.0.1.jpg" alt="Banner" width="100% height=100px">
+<img src="Imagenes/127.0.0.1.jpg" alt="Banner" width="100%" height="100px">
 
 <h1 align="center">Hola 👋, soy Carlos Marrugo / @carlosdev ✨</h1>
 
@@ -11,16 +11,15 @@
     <img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100092378391816&mibextid=ZbWKwL" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev" />
+    <img align="center" src="https://img.shields.io/badge/Facebook-007BFF?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev" />
   </a>
   <a href="mailto:marrugovargascarlos@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev" />
+    <img align="center" src="https://img.shields.io/badge/Gmail-4CAF50?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev" />
   </a>
-    <a href="https://www.linkedin.com/in/carlos-marrugo-701261283/" target="blank">
+  <a href="https://www.linkedin.com/in/carlos-marrugo-701261283/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Linkedin-007BFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="@unsimpledev" />
   </a>
-  </a>
-    <a href="https://discord.gg/dCxbVP8P" target="blank">
+  <a href="https://discord.gg/dCxbVP8P" target="blank">
     <img align="center" src="https://img.shields.io/badge/Discord-4CAF50?style=for-the-badge&logo=discord&logoColor=black" alt="@unsimpledev" />
   </a>
 </p>
@@ -104,6 +103,30 @@
 
 <br>
 
+<h2 align="left">Recursos y Libros 📚</h2>
+<ul>
+  <li>
+    <p align="left">
+      <strong>Libro de POO - Java (Ingles) ~ Recomiendo</strong><br>
+      <a href="[link_de_descarga_1](https://www.ms.sapientia.ro/~manyi/teaching/oop/oop_java.pdf)" target="blank">-> Descargar</a>
+    </p>
+  </li>
+  <li>
+    <p align="left">
+      <strong>Libro de Data Structure ~ Recomiendo</strong><br>
+      <a href="[link_de_descarga_2](https://dl.ebooksworld.ir/motoman/Wiley.Data.Structures.and.Algorithms.in.Java.6th.Edition.www.EBooksWorld.ir.pdf)" target="blank">-> Descargar</a>
+    </p>
+  </li>
+  <li>
+    <p align="left">
+      <strong>Libro de Programacion Funcional (Java) ~ Recomiendo</strong><br>
+      <a href="https://github.com/sergarb1/JavaFuncional/blob/master/Java%20-%20Programacion%20Funcional.pdf" target="blank">-> Descargar</a>
+    </p>
+  </li>
+</ul>
+
+<br>
+
 <!-- Puedes agregar más secciones según sea necesario -->
 <!-- Por ejemplo, si deseas incluir estadísticas de GitHub -->
 
@@ -112,3 +135,4 @@
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Marrugo&layout=compact&theme=dark" alt="Top Langs" />
 </p>
+
