@@ -55,8 +55,9 @@
         </a>
       </p>
       <p align="center">
+        <h3 align="left">=>Estructura de Datos</h3>
         <a href="https://www.youtube.com/watch?v=u3J-fe4UFsA&t=584s" target="blank">
-          <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
+          <img align="center" src="https://img.shields.io/badge/Ver Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
         </a>
       </p>
     </td>
@@ -67,8 +68,9 @@
         </a>
       </p>
       <p align="center">
+        <h3 align="left">=>Organiza tu Tiempo con Notion</h3>
         <a href="https://www.youtube.com/watch?v=E34gH1vP3iw&list=PLA96kRUo8UuCNHV-382S9bsrgbCSe52Od&index=1&t=179s" target="blank">
-          <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
+          <img align="center" src="https://img.shields.io/badge/Ver Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
         </a>
       </p>
     </td>
@@ -80,9 +82,10 @@
           <img align="center" width="90%" src="Imagenes/PHP LOGIN P1.png" alt="VIDEO" />
         </a>
       </p>
-      <p align="center">
+      <p align="center">        
+        <h3 align="left">=>Login con PHP</h3>
         <a href="https://www.youtube.com/watch?v=EE23Koza6_w&t=10s" target="blank">
-          <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
+          <img align="center" src="https://img.shields.io/badge/Ver Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
         </a>
       </p>
     </td>
@@ -93,8 +96,9 @@
         </a>
       </p>
       <p align="center">
+        <h3 align="left">=>Curso de JAVA Gratuito</h3>
         <a href="https://www.youtube.com/watch?v=BASwKN-t_Jc&t=4s" target="blank">
-          <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
+          <img align="center" src="https://img.shields.io/badge/Ver Curso-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
         </a>
       </p>
     </td>
