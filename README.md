@@ -96,9 +96,7 @@
 
 <!-- Puedes agregar más secciones según sea necesario -->
 <!-- Por ejemplo, si deseas incluir estadísticas de GitHub -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosdev&theme=dark&show_icons=true&count_private=true" />
-</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo&show_icons=true)](https://github.com/Carlos-Marrugo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Marrugo&layout=compact)](https://github.com/Carlos-Marrugo/github-readme-stats&layout=compact)
 
