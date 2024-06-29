@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="Imagenes/funny-coding-x8zwu5ndan6x9ovx.jpg" alt="Banner" width="100%">
+<img src="Imagenes/funny-coding-x8zwu5ndan6x9ovx.jpg" alt="Banner" width="100% height=100px">
 
 <h1 align="center">Hola 👋, soy Carlos Marrugo / @carlosdev ✨</h1>
 
