@@ -99,3 +99,5 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosdev&theme=dark&show_icons=true&count_private=true" />
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programacioncmv)](https://github.com/programacioncmv/github-readme-stats)
