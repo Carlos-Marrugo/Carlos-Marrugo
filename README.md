@@ -129,7 +129,7 @@
 
 <!-- Puedes agregar más secciones según sea necesario -->
 <!-- Por ejemplo, si deseas incluir estadísticas de GitHub -->
-
+<h2 align="left">Estadísticas</h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo&show_icons=true&theme=dark" alt="Carlos Marrugo's GitHub stats" />
   <br>
