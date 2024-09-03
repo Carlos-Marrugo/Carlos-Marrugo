@@ -39,7 +39,7 @@
 <h2 align="left">Tecnologías conocidas👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,py,css,html,js,nodejs,mysql,sqlite,git,github,eclipse,vscode,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,py,html,css,js,ts,nodejs,react,angular,spring,hibernate,mysql,postgres,mongodb,redis,sqlite,git,github,docker,kubernetes,postman,swagger,intellij,eclipse,vscode,bootstrap,tailwind,ps&perline=12" />
   </a>
 </p>
 
