@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="Imagenes/127.0.0.1.jpg" alt="Banner" width="100%">
+<img src="Imagenes/pixelcut-export (3).png" alt="Banner" width="100%">
 
 <h1 align="center">Hola 👋, soy Carlos Marrugo / @carlosdev ✨</h1>
 
