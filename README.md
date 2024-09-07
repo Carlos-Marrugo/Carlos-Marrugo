@@ -25,22 +25,22 @@
 </p>
 
 <br>
-
 <h2 align="left">Sobre mí 😃</h2>
 <p align="left">
-  🎓 INGENIERO EN SISTEMAS<br>
-  🎥 CREADOR DE CONTENIDO que enseña sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia!<br>
-  📝 Roles en el ámbito: desarrollador, emprendedor, programador freelance, y en un futuro quién sabe ☺️<br>
-  📫 Contacto: **marrugovargascarlos@gmail.com**
-</p>
+🎓 SYSTEMS ENGINEER STUDENT (+2 Years)
+Passionate about technology and solving problems through code.
 
-<br>
+🎥 CONTENT CREATOR
+I share my knowledge 📚 on social media, teaching based on extensive study 😵 and hands-on programming experience.
 
+📝 Roles in the field
+Developer, entrepreneur, freelance programmer with over 3 years of experience, and who knows what the future holds ☺️.
 ### Skills
+</br>
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" width="36" height="36" alt="Spring" /></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36" alt="Spring" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -54,14 +54,13 @@
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" /></a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terraform-colored.svg" width="36" height="36" alt="Terraform" /></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="36" height="36" alt="Kubernetes" /></a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="36" height="36" alt="Terraform" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
 
-<br>
 
 <h2 align="left">Tutoriales👨🏻‍💻</h2>
 <table align="center">
@@ -148,14 +147,8 @@
 </div>
 
 <br>
+### Badges
 
-<!-- Puedes agregar más secciones según sea necesario -->
-<!-- Por ejemplo, si deseas incluir estadísticas de GitHub -->
-<h2 align="left">Estadísticas</h2>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo&show_icons=true&theme=dark" alt="Carlos Marrugo's GitHub stats" />
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Marrugo&layout=compact&theme=dark" alt="Top Langs" />
-</p>
+<b>My GitHub Stats</b>
 
-
+<a href="http://www.github.com/Carlos-Marrugo"><img src="https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo&show_icons=true&hide=issues,&title_color=0891b2&text_color=3382ed&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Carlos-Marrugo's GitHub stats" /></a>
