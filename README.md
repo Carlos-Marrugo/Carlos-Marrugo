@@ -62,74 +62,28 @@ Developer, entrepreneur, freelance programmer with over 3 years of experience, a
 </p>
 
 <h2 align="left">Latest YouTube Videos 🎥</h2>
-<div class="video-grid">
-    <div class="video-item">
-        <a href="[https://www.youtube.com/watch?v=example1](https://youtu.be/_UA5bqS3ro8?si=jeoh_1sTPVapKJ4b)" target="_blank">
-            <img src="Imagenes/5145433312838397739.jpg" alt="Programmers Need More Math" />
-        </a>
-        <p><b>Programmers Need More Math</b></p>
-        <p>29K views • 2 weeks ago</p>
-    </div>
-    <div class="video-item">
-        <a href="[https://www.youtube.com/watch?v=example2](https://youtu.be/_UA5bqS3ro8?si=jeoh_1sTPVapKJ4b)" target="_blank">
-            <img src="Imagenes/5145433312838397740.jpg" alt="How to DESTROY Developer..." />
-        </a>
-        <p><b>How to DESTROY Developer...</b></p>
-        <p>17K views • 2 weeks ago</p>
-    </div>
-    <div class="video-item">
-        <a href="[https://www.youtube.com/watch?v=example3](https://youtu.be/EE23Koza6_w?si=iQu9EMdfhPPbKS_A)" target="_blank">
-            <img src="Imagenes/PHP LOGIN P1.png" alt="Everything You Need to Know About Git" />
-        </a>
-        <p><b>Everything You Need to Know...</b></p>
-        <p>17K views • 3 weeks ago</p>
-    </div>
-    <div class="video-item">
-        <a href="https://www.youtube.com/watch?v=example4" target="_blank">
-            <img src="https://img.youtube.com/vi/example4/hqdefault.jpg" alt="Abstraction - Java OOP" />
-        </a>
-        <p><b>Abstraction - Java OOP</b></p>
-        <p>4.4K views • 3 weeks ago</p>
-    </div>
-    <div class="video-item">
-        <a href="https://www.youtube.com/watch?v=example5" target="_blank">
-            <img src="https://img.youtube.com/vi/example5/hqdefault.jpg" alt="Polymorphism - Java OOP" />
-        </a>
-        <p><b>Polymorphism - Java OOP</b></p>
-        <p>9.4K views • 4 weeks ago</p>
-    </div>
-    <div class="video-item">
-        <a href="https://www.youtube.com/watch?v=example6" target="_blank">
-            <img src="https://img.youtube.com/vi/example6/hqdefault.jpg" alt="Inheritance - Java OOP" />
-        </a>
-        <p><b>Inheritance - Java OOP</b></p>
-        <p>3.4K views • 1 month ago</p>
-    </div>
-</div>
-
-<style>
-.video-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 20px;
-    margin: 20px 0;
-}
-
-.video-item {
-    background-color: #1c1917;
-    border-radius: 10px;
-    padding: 10px;
-    text-align: center;
-}
-
-.video-item img {
-    width: 100%;
-    border-radius: 10px;
-}
-
-.video-item p {
-    color: #ffffff;
-    margin: 10px 0 0;
-}
-</style>
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/_UA5bqS3ro8?si=jeoh_1sTPVapKJ4b" target="_blank">
+        <img src="Imagenes/5145433312838397739.jpg" alt="Programmers Need More Math" width="300" />
+      </a>
+      <p><b>App Escritorio(MVC,MySQL,Xampp)</b></p>
+      <p>29K views • 2 weeks ago</p>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/_UA5bqS3ro8?si=jeoh_1sTPVapKJ4b" target="_blank">
+        <img src="Imagenes/5145433312838397740.jpg" alt="How to DESTROY Developer..." width="300" />
+      </a>
+      <p><b>Create Database MySQL(App Escritorio)</b></p>
+      <p>17K views • 2 weeks ago</p>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/EE23Koza6_w?si=iQu9EMdfhPPbKS_A" target="_blank">
+        <img src="Imagenes/PHP LOGIN P1.png" alt="Everything You Need to Know About Git" width="300" />
+      </a>
+      <p><b>Everything You Need to Know About Git</b></p>
+      <p>17K views • 3 weeks ago</p>
+    </td>
+  </tr>
+</table>
