@@ -75,7 +75,7 @@ Developer, entrepreneur, freelance programmer with over 3 years of experience, a
       <a href="https://youtu.be/_UA5bqS3ro8?si=jeoh_1sTPVapKJ4b" target="_blank">
         <img src="Imagenes/5145433312838397740.jpg" alt="How to DESTROY Developer..." width="300" />
       </a>
-      <p><b>Create Database MySQL(App Escritorio)</b></p>
+      <p><b>Create Database MySQL Java</b></p>
       <p>17K views • 2 weeks ago</p>
     </td>
     <td align="center">
