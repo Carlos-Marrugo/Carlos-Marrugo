@@ -27,16 +27,17 @@
 <br>
 <h2 align="left">Sobre mí 😃</h2>
 <p align="left">
-🎓 SYSTEMS ENGINEER STUDENT (+2 Years)
+🎓 SYSTEMS ENGINEER STUDENT (+2 Years)  
 Passionate about technology and solving problems through code.
 
-🎥 CONTENT CREATOR
+🎥 CONTENT CREATOR  
 I share my knowledge 📚 on social media, teaching based on extensive study 😵 and hands-on programming experience.
 
-📝 Roles in the field
+📝 Roles in the field  
 Developer, entrepreneur, freelance programmer with over 3 years of experience, and who knows what the future holds ☺️.
+</p>
+
 ### Skills
-</br>
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -60,95 +61,75 @@ Developer, entrepreneur, freelance programmer with over 3 years of experience, a
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
-
-
-<h2 align="left">Tutoriales👨🏻‍💻</h2>
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <p align="center">
-        <a href="https://www.youtube.com/watch?v=u3J-fe4UFsA&t=584s" title="Ver Video">
-          <img align="center" width="90%" src="Imagenes/Busqueda Binaria ED.png" alt="VIDEO" />
+<h2 align="left">Latest YouTube Videos 🎥</h2>
+<div class="video-grid">
+    <div class="video-item">
+        <a href="[https://www.youtube.com/watch?v=example1](https://youtu.be/_UA5bqS3ro8?si=jeoh_1sTPVapKJ4b)" target="_blank">
+            <img src="Imagenes/5145433312838397739.jpg" alt="Programmers Need More Math" />
         </a>
-      </p>
-      <p align="center">
-        <h3 align="left">=>Estructura de Datos</h3>
-        <a href="https://www.youtube.com/watch?v=u3J-fe4UFsA&t=584s" target="blank">
-          <img align="center" src="https://img.shields.io/badge/Ver Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
+        <p><b>Programmers Need More Math</b></p>
+        <p>29K views • 2 weeks ago</p>
+    </div>
+    <div class="video-item">
+        <a href="[https://www.youtube.com/watch?v=example2](https://youtu.be/_UA5bqS3ro8?si=jeoh_1sTPVapKJ4b)" target="_blank">
+            <img src="Imagenes/5145433312838397740.jpg" alt="How to DESTROY Developer..." />
         </a>
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <p align="center">
-        <a href="https://www.youtube.com/watch?v=E34gH1vP3iw&list=PLA96kRUo8UuCNHV-382S9bsrgbCSe52Od&index=1&t=179s" title="Ver Video">
-          <img align="center" width="90%" src="Imagenes/Notion Miniatura.png" alt="VIDEO" />
+        <p><b>How to DESTROY Developer...</b></p>
+        <p>17K views • 2 weeks ago</p>
+    </div>
+    <div class="video-item">
+        <a href="[https://www.youtube.com/watch?v=example3](https://youtu.be/EE23Koza6_w?si=iQu9EMdfhPPbKS_A)" target="_blank">
+            <img src="Imagenes/PHP LOGIN P1.png" alt="Everything You Need to Know About Git" />
         </a>
-      </p>
-      <p align="center">
-        <h3 align="left">=>Organiza tu Tiempo con Notion</h3>
-        <a href="https://www.youtube.com/watch?v=E34gH1vP3iw&list=PLA96kRUo8UuCNHV-382S9bsrgbCSe52Od&index=1&t=179s" target="blank">
-          <img align="center" src="https://img.shields.io/badge/Ver Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
+        <p><b>Everything You Need to Know...</b></p>
+        <p>17K views • 3 weeks ago</p>
+    </div>
+    <div class="video-item">
+        <a href="https://www.youtube.com/watch?v=example4" target="_blank">
+            <img src="https://img.youtube.com/vi/example4/hqdefault.jpg" alt="Abstraction - Java OOP" />
         </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <p align="center">
-        <a href="https://www.youtube.com/watch?v=EE23Koza6_w&t=10s" title="Ver Video">
-          <img align="center" width="90%" src="Imagenes/PHP LOGIN P1.png" alt="VIDEO" />
+        <p><b>Abstraction - Java OOP</b></p>
+        <p>4.4K views • 3 weeks ago</p>
+    </div>
+    <div class="video-item">
+        <a href="https://www.youtube.com/watch?v=example5" target="_blank">
+            <img src="https://img.youtube.com/vi/example5/hqdefault.jpg" alt="Polymorphism - Java OOP" />
         </a>
-      </p>
-      <p align="center">        
-        <h3 align="left">=>Login con PHP</h3>
-        <a href="https://www.youtube.com/watch?v=EE23Koza6_w&t=10s" target="blank">
-          <img align="center" src="https://img.shields.io/badge/Ver Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
+        <p><b>Polymorphism - Java OOP</b></p>
+        <p>9.4K views • 4 weeks ago</p>
+    </div>
+    <div class="video-item">
+        <a href="https://www.youtube.com/watch?v=example6" target="_blank">
+            <img src="https://img.youtube.com/vi/example6/hqdefault.jpg" alt="Inheritance - Java OOP" />
         </a>
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <p align="center">
-        <a href="https://www.youtube.com/watch?v=BASwKN-t_Jc&t=4s" title="Ver Video">
-          <img align="center" width="90%" src="Imagenes/JAVA 0 INTRO 1.png" alt="VIDEO" />
-        </a>
-      </p>
-      <p align="center">
-        <h3 align="left">=>Curso de JAVA Gratuito</h3>
-        <a href="https://www.youtube.com/watch?v=BASwKN-t_Jc&t=4s" target="blank">
-          <img align="center" src="https://img.shields.io/badge/Ver Curso-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h2 align="left">Recursos y Libros 📚</h2>
-<div align="center">
-  <div style="border: 1px solid #4CAF50; border-radius: 5px; padding: 10px; margin-bottom: 10px; width: 80%;">
-    <p align="left">
-      <strong>Libro de POO - Java (Inglés) ~ Recomiendo</strong><br>
-      <a href="https://www.ms.sapientia.ro/~manyi/teaching/oop/oop_java.pdf" target="blank">-> Descargar</a>
-    </p>
-  </div>
-  <div style="border: 1px solid #4CAF50; border-radius: 5px; padding: 10px; margin-bottom: 10px; width: 80%;">
-    <p align="left">
-      <strong>Libro de Data Structure ~ Recomiendo</strong><br>
-      <a href="https://dl.ebooksworld.ir/motoman/Wiley.Data.Structures.and.Algorithms.in.Java.6th.Edition.www.EBooksWorld.ir.pdf" target="blank">-> Descargar</a>
-    </p>
-  </div>
-  <div style="border: 1px solid #4CAF50; border-radius: 5px; padding: 10px; margin-bottom: 10px; width: 80%;">
-    <p align="left">
-      <strong>Libro de Programación Funcional (Java) ~ Recomiendo</strong><br>
-      <a href="https://github.com/sergarb1/JavaFuncional/blob/master/Java%20-%20Programacion%20Funcional.pdf" target="blank">-> Descargar</a>
-    </p>
-  </div>
+        <p><b>Inheritance - Java OOP</b></p>
+        <p>3.4K views • 1 month ago</p>
+    </div>
 </div>
 
-<br>
-### Badges
+<style>
+.video-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin: 20px 0;
+}
 
-<b>My GitHub Stats</b>
+.video-item {
+    background-color: #1c1917;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
 
-<a href="http://www.github.com/Carlos-Marrugo"><img src="https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo&show_icons=true&hide=issues,&title_color=0891b2&text_color=3382ed&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Carlos-Marrugo's GitHub stats" /></a>
+.video-item img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.video-item p {
+    color: #ffffff;
+    margin: 10px 0 0;
+}
+</style>
+
