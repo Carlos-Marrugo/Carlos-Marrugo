@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="Imagenes/Carlos Marrugo (4).png" alt="Banner" width="100%">
+<img src="Imagenes/Diseño sin título.jpg" alt="Banner" width="100%">
 
 <h1 align="center">Hola 👋, soy Carlos Marrugo / @carlosdev ✨</h1>
 
