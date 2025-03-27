@@ -1,89 +1,94 @@
-<!-- Banner -->
-<img src="Imagenes/edff9344-027f-483a-bda9-833d69f0c4be-cover.png" alt="Banner" width="100%">
+### 🚀 **BIENVENIDO A MI MUNDO DIGITAL!** 🌟🔥💻
 
-<h1 align="center">Hola 👋, soy Carlos Marrugo / @carlosdev ✨</h1>
+<p align="center">
+  <img src="Imagenes/edff9344-027f-483a-bda9-833d69f0c4be-cover.png" alt="Banner" width="100%">
+</p>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Hola! Soy Carlos Marrugo / @carlosdev ✨🔥
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=🚀+Bienvenido+a+mi+repositorio!+🔥;💻+Programador+Full+Stack!;📚+Creador+de+contenido+tecnol%C3%B3gico!;🔧+Siempre+aprendiendo+nuevas+tecnolog%C3%ADas!" />
+</p>
+
+---
+
+## 🎥 **Conéctate conmigo** 🌍🌟
 
 <p align="center">
   <a href="https://www.youtube.com/@ProgramacionCMV-sb3zx/featured" target="blank">
-    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.tiktok.com/@carlos.dev_&_r=1" target="blank">
-    <img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100092378391816&mibextid=ZbWKwL" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Facebook-007BFF?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev" />
+    <img src="https://img.shields.io/badge/Facebook-007BFF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:marrugovargascarlos@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-4CAF50?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev" />
+    <img src="https://img.shields.io/badge/Gmail-FF5733?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/carlos-marrugo-701261283/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Linkedin-007BFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="@unsimpledev" />
+    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://discord.gg/dCxbVP8P" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Discord-4CAF50?style=for-the-badge&logo=discord&logoColor=black" alt="@unsimpledev" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
-<br>
-<h2 align="left">Sobre mí 😃</h2>
-<p align="left">
-🎓 SYSTEMS ENGINEER STUDENT (+2 Years)  
-Passionate about technology and solving problems through code.
+---
 
-🎥 CONTENT CREATOR  
-I share my knowledge 📚 on social media, teaching based on extensive study 😵 and hands-on programming experience.
+## 🚀 **Sobre mí** 😃💡
 
-📝 Roles in the field  
-Developer, entrepreneur, freelance programmer with over 3 years of experience, and who knows what the future holds ☺️.
+- 🎓 **Ingeniero de Sistemas en formación** (+2 años)
+- 🎥 **Creador de contenido** en redes sociales, compartiendo conocimiento 📚
+- 💻 **Programador Full Stack & Freelance** con más de **3 años de experiencia**
+- 🚀 Siempre explorando nuevas tecnologías y herramientas para el desarrollo de software
+- 🌍 Apasionado por **el código, la creatividad y la enseñanza**
+
+---
+
+## 🔥 **Tecnologías y herramientas** 🚀💻
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,angular,php,cs,mysql,postgres,mongodb,aws,docker,kubernetes,terraform,git,bash,linux,vscode" width="600"/>
 </p>
 
-### Skills
+---
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36" alt="Spring" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="36" height="36" alt="Kubernetes" /></a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="36" height="36" alt="Terraform" /></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+## 🎬 **Últimos Videos en YouTube** 🎥🔥
 
-<h2 align="left">Latest YouTube Videos 🎥</h2>
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://youtu.be/_UA5bqS3ro8?si=jeoh_1sTPVapKJ4b" target="_blank">
-        <img src="Imagenes/5145433312838397739.jpg" alt="Programmers Need More Math" width="300" />
+        <img src="Imagenes/5145433312838397739.jpg" alt="App Escritorio(MVC,MySQL,Xampp)" width="300" />
       </a>
-      <p><b>App Escritorio(MVC,MySQL,Xampp)</b></p>
-      <p>29K views • 2 weeks ago</p>
+      <p><b>🔥 App Escritorio (MVC, MySQL, Xampp) 🔥</b></p>
+      <p>📅 29K views • 2 semanas atrás</p>
     </td>
     <td align="center">
       <a href="https://youtu.be/_UA5bqS3ro8?si=jeoh_1sTPVapKJ4b" target="_blank">
-        <img src="Imagenes/5145433312838397740.jpg" alt="How to DESTROY Developer..." width="300" />
+        <img src="Imagenes/5145433312838397740.jpg" alt="Create Database MySQL Java" width="300" />
       </a>
-      <p><b>Create Database MySQL Java</b></p>
-      <p>17K views • 2 weeks ago</p>
+      <p><b>⚡ Create Database MySQL Java ⚡</b></p>
+      <p>📅 17K views • 2 semanas atrás</p>
     </td>
     <td align="center">
       <a href="https://youtu.be/EE23Koza6_w?si=iQu9EMdfhPPbKS_A" target="_blank">
         <img src="Imagenes/PHP LOGIN P1.png" alt="Everything You Need to Know About Git" width="300" />
       </a>
-      <p><b>Everything You Need to Know About Git</b></p>
-      <p>17K views • 3 weeks ago</p>
+      <p><b>🔥 Todo sobre Git en minutos 🔥</b></p>
+      <p>📅 17K views • 3 semanas atrás</p>
     </td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400">
+</p>
+
+<h2 align="center">🚀 ¡Gracias por visitar mi perfil! 🚀</
