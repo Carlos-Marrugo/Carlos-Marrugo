@@ -14,41 +14,27 @@
 
 <hr style="border: 2px solid #FF5733;">
 
-## 🎥 **Conéctate conmigo** 🌍🌟
+<h3 align="left">Software Developer</h3>
 
-<p align="center">
-  <a href="https://www.youtube.com/@ProgramacionCMV-sb3zx/featured" target="blank">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" width="50"/>
+<h3 align="left">Desarrollador Fullstack especializado en Backend con Spring Boot y Frontend con Angular</h3>
+
+<p align="left">
+  <a href="https://github.com/Carlos-Marrugo">
+    <img src="https://komarev.com/ghpvc/?username=Carlos-Marrugo" alt="Visitas al perfil" />
   </a>
-  <a href="https://www.tiktok.com/@carlos.dev_&_r=1" target="blank">
-    <img src="https://skillicons.dev/icons?i=tiktok" alt="TikTok" width="50"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100092378391816&mibextid=ZbWKwL" target="blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="50"/>
-  </a>
-  <a href="mailto:marrugovargascarlos@gmail.com" target="blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50"/>
-  </a>
-  <a href="https://www.linkedin.com/in/carlos-marrugo-701261283/" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
-  </a>
-  <a href="https://discord.gg/dCxbVP8P" target="blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="50"/>
+  <a href="https://github.com/Carlos-Marrugo?tab=followers">
+    <img alt="GitHub seguidores" src="https://img.shields.io/github/followers/Carlos-Marrugo?style=flat&logo=github">
   </a>
 </p>
 
-<hr style="border: 2px solid #FF5733;">
+<a href="#carlos-marrugo-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Carlos Marrugo" align="right" />
+</a>
 
-## 🚀 **Sobre mí** 😃💡
-
-- 🎓 **Ingeniero de Sistemas en formación** (+2 años)
-- 🎥 **Creador de contenido** en redes sociales, compartiendo conocimiento 📚
-- 💻 **Programador Full Stack & Freelance** con más de **3 años de experiencia**
-- 🚀 Apasionado por **Java, Spring Boot y la arquitectura de software**
-- 🌍 Experto en desarrollo de **Microservicios, API REST, Seguridad con JWT y OAuth2**
-- ☁️ Trabajando con **AWS, Docker, Kubernetes, y CI/CD**
-
-<hr style="border: 2px solid #FF5733;">
+- 💼 &nbsp; Actualmente trabajo en **[Tu Empresa o Proyecto]**  
+- 🌱 &nbsp; Estoy aprendiendo más sobre **Arquitectura de Microservicios y DevOps**  
+- 💬 &nbsp; Me gusta hablar sobre **Java, Spring Boot, Angular y tecnologías web**  
+- 📫 &nbsp; Contáctame en **[LinkedIn]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/carlos-marrugo-701261283/))**  
 
 ## 🔥 **Tecnologías y herramientas** 🚀💻
 
@@ -69,15 +55,106 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
- My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap.
-
-### 📌 **Stack principal**
-| Tecnología | Descripción |
-|------------|------------|
-| ![Java](https://skillicons.dev/icons?i=java) | Lenguaje principal para desarrollo backend |
-| ![Spring Boot](https://skillicons.dev/icons?i=spring) | Framework para desarrollo de aplicaciones robustas |
-| ![Hibernate](https://skillicons.dev/icons?i=hibernate) | ORM para manejo de bases de datos relacionales |
-| ![Docker](https://skillicons.dev/icons?i=docker) | Contenedores para despliegue y desarrollo ágil |
-| ![AWS](https://skillicons.dev/icons?i=aws) | Servicios en la nube para hosting y escalabilidad |
-
-<hr style="border: 2px solid #FF5733;">
+**Mi Stack Favorito**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
+      </a>
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
+      </a>
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache" />
+      </a>
+      <br>Apache
+    </td>
+    <td align="center" width="96">
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
+      </a>
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+      </a>
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
+      </a>
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+  </tr>
+</table>
