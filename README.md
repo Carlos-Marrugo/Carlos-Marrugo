@@ -12,50 +12,69 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=🚀+Bienvenido+a+mi+repositorio!+🔥;💻+Programador+Full+Stack!;📚+Creador+de+contenido+tecnol%C3%B3gico!;🔧+Siempre+aprendiendo+nuevas+tecnolog%C3%ADas!" />
 </p>
 
----
+<hr style="border: 2px solid #FF5733;">
 
 ## 🎥 **Conéctate conmigo** 🌍🌟
 
 <p align="center">
   <a href="https://www.youtube.com/@ProgramacionCMV-sb3zx/featured" target="blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" width="50"/>
   </a>
   <a href="https://www.tiktok.com/@carlos.dev_&_r=1" target="blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+    <img src="https://skillicons.dev/icons?i=tiktok" alt="TikTok" width="50"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100092378391816&mibextid=ZbWKwL" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-007BFF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="50"/>
   </a>
   <a href="mailto:marrugovargascarlos@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-FF5733?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50"/>
   </a>
   <a href="https://www.linkedin.com/in/carlos-marrugo-701261283/" target="blank">
-    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
   </a>
   <a href="https://discord.gg/dCxbVP8P" target="blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="50"/>
   </a>
 </p>
 
----
+<hr style="border: 2px solid #FF5733;">
 
 ## 🚀 **Sobre mí** 😃💡
 
 - 🎓 **Ingeniero de Sistemas en formación** (+2 años)
 - 🎥 **Creador de contenido** en redes sociales, compartiendo conocimiento 📚
 - 💻 **Programador Full Stack & Freelance** con más de **3 años de experiencia**
-- 🚀 Siempre explorando nuevas tecnologías y herramientas para el desarrollo de software
-- 🌍 Apasionado por **el código, la creatividad y la enseñanza**
+- 🚀 Apasionado por **Java, Spring Boot y la arquitectura de software**
+- 🌍 Experto en desarrollo de **Microservicios, API REST, Seguridad con JWT y OAuth2**
+- ☁️ Trabajando con **AWS, Docker, Kubernetes, y CI/CD**
 
----
+<hr style="border: 2px solid #FF5733;">
 
 ## 🔥 **Tecnologías y herramientas** 🚀💻
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,angular,php,cs,mysql,postgres,mongodb,aws,docker,kubernetes,terraform,git,bash,linux,vscode" width="600"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,maven,postgres,mysql,mongodb,aws,docker,kubernetes,terraform,git,bash,linux,vscode,angular,react" width="800"/>
 </p>
 
----
+### 📌 **Stack principal**
+| Tecnología | Descripción |
+|------------|------------|
+| ![Java](https://skillicons.dev/icons?i=java) | Lenguaje principal para desarrollo backend |
+| ![Spring Boot](https://skillicons.dev/icons?i=spring) | Framework para desarrollo de aplicaciones robustas |
+| ![Hibernate](https://skillicons.dev/icons?i=hibernate) | ORM para manejo de bases de datos relacionales |
+| ![Docker](https://skillicons.dev/icons?i=docker) | Contenedores para despliegue y desarrollo ágil |
+| ![AWS](https://skillicons.dev/icons?i=aws) | Servicios en la nube para hosting y escalabilidad |
+
+<hr style="border: 2px solid #FF5733;">
+
+## 📊 **Estadísticas de GitHub** 📈🔥
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosdev&show_icons=true&theme=radical" alt="GitHub Stats" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosdev&theme=radical" alt="GitHub Streak" width="500"/>
+</p>
+
+<hr style="border: 2px solid #FF5733;">
 
 ## 🎬 **Últimos Videos en YouTube** 🎥🔥
 
@@ -77,7 +96,7 @@
     </td>
     <td align="center">
       <a href="https://youtu.be/EE23Koza6_w?si=iQu9EMdfhPPbKS_A" target="_blank">
-        <img src="Imagenes/PHP LOGIN P1.png" alt="Everything You Need to Know About Git" width="300" />
+        <img src="Imagenes/PHP LOGIN P1.png" alt="Todo sobre Git en minutos" width="300" />
       </a>
       <p><b>🔥 Todo sobre Git en minutos 🔥</b></p>
       <p>📅 17K views • 3 semanas atrás</p>
@@ -85,10 +104,14 @@
   </tr>
 </table>
 
----
+<hr style="border: 2px solid #FF5733;">
 
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400">
 </p>
 
-<h2 align="center">🚀 ¡Gracias por visitar mi perfil! 🚀</
+<h2 align="center">🚀 ¡Gracias por visitar mi perfil! 🚀</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
+</p>
