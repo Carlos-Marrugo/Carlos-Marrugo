@@ -52,9 +52,24 @@
 
 ## 🔥 **Tecnologías y herramientas** 🚀💻
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,maven,postgres,mysql,mongodb,aws,docker,kubernetes,terraform,git,bash,linux,vscode,angular,react" width="800"/>
-</p>
+**Languages and Tools:** 
+
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
+![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
+
+ My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap.
 
 ### 📌 **Stack principal**
 | Tecnología | Descripción |
@@ -66,52 +81,3 @@
 | ![AWS](https://skillicons.dev/icons?i=aws) | Servicios en la nube para hosting y escalabilidad |
 
 <hr style="border: 2px solid #FF5733;">
-
-## 📊 **Estadísticas de GitHub** 📈🔥
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosdev&show_icons=true&theme=radical" alt="GitHub Stats" width="500"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosdev&theme=radical" alt="GitHub Streak" width="500"/>
-</p>
-
-<hr style="border: 2px solid #FF5733;">
-
-## 🎬 **Últimos Videos en YouTube** 🎥🔥
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://youtu.be/_UA5bqS3ro8?si=jeoh_1sTPVapKJ4b" target="_blank">
-        <img src="Imagenes/5145433312838397739.jpg" alt="App Escritorio(MVC,MySQL,Xampp)" width="300" />
-      </a>
-      <p><b>🔥 App Escritorio (MVC, MySQL, Xampp) 🔥</b></p>
-      <p>📅 29K views • 2 semanas atrás</p>
-    </td>
-    <td align="center">
-      <a href="https://youtu.be/_UA5bqS3ro8?si=jeoh_1sTPVapKJ4b" target="_blank">
-        <img src="Imagenes/5145433312838397740.jpg" alt="Create Database MySQL Java" width="300" />
-      </a>
-      <p><b>⚡ Create Database MySQL Java ⚡</b></p>
-      <p>📅 17K views • 2 semanas atrás</p>
-    </td>
-    <td align="center">
-      <a href="https://youtu.be/EE23Koza6_w?si=iQu9EMdfhPPbKS_A" target="_blank">
-        <img src="Imagenes/PHP LOGIN P1.png" alt="Todo sobre Git en minutos" width="300" />
-      </a>
-      <p><b>🔥 Todo sobre Git en minutos 🔥</b></p>
-      <p>📅 17K views • 3 semanas atrás</p>
-    </td>
-  </tr>
-</table>
-
-<hr style="border: 2px solid #FF5733;">
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400">
-</p>
-
-<h2 align="center">🚀 ¡Gracias por visitar mi perfil! 🚀</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
-</p>
