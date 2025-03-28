@@ -32,7 +32,7 @@
 </a>
 
 - 💼 &nbsp; **Estudiando Ingenieria de Software**  
-- 🌱 &nbsp; Estoy aprendiendo más sobre **Arquitectura de Microservicios y DevOps**  
+- 🌱 &nbsp; Estoy aprendiendo más sobre **Arquitectura de Microservicios**  
 - 💬 &nbsp; Me gusta hablar sobre **Java, Spring Boot, Angular y tecnologías web**  
 - 📫 &nbsp; Contáctame en **[LinkedIn]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/carlos-marrugo-701261283/))**  
 
@@ -42,18 +42,33 @@
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?logo=spring&style=social)&nbsp;&nbsp;
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-black?logo=spring&style=social)&nbsp;&nbsp;
+![Hibernate](https://img.shields.io/badge/-Hibernate-black?logo=hibernate&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)&nbsp;&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=social)&nbsp;&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&style=social)&nbsp;&nbsp;
+![Ionic](https://img.shields.io/badge/-Ionic-black?logo=ionic&style=social)&nbsp;&nbsp;
+![Capacitor](https://img.shields.io/badge/-Capacitor-black?logo=capacitor&style=social)&nbsp;&nbsp;
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-black?logo=sass&style=social)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social)&nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=social)&nbsp;&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-black?logo=supabase&style=social)&nbsp;&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-black?logo=redis&style=social)&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?logo=jenkins&style=social)&nbsp;&nbsp;
+![Apache](https://img.shields.io/badge/-Apache-black?logo=apache&style=social)&nbsp;&nbsp;
+
 
 **Mi Stack Favorito**
 <table>
