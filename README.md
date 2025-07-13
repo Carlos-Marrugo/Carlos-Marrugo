@@ -1,7 +1,7 @@
 ### 🚀 **BIENVENIDO A MI MUNDO DIGITAL!** 🌟🔥💻
 
 <p align="center">
-  <img src="Imagenes/edff9344-027f-483a-bda9-833d69f0c4be-cover.png" alt="Banner" width="100%">
+  <img src="Imagenes/Black and Gray Minimalist Shapes Personal Profile LinkedIn Banner (5).png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">
