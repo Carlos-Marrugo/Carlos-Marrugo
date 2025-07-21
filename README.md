@@ -92,7 +92,7 @@
 <tr border="none">
   
   <!-- Publicación 1 -->
-  <td width="33%" align="center">
+  <td width="37%" align="center">
     <p align="center">
      <a href="https://www.linkedin.com/posts/carlos-marrugo-701261283_backend-api-java-activity-7321751459241287680-7DJq" title="Ver publicación" target="_blank">
         <img align="center" width=100% src="https://github.com/user-attachments/assets/a6868688-4b6c-4fe5-9027-ef6e38aada3b" alt="API Spring Boot" /></a>
@@ -103,7 +103,7 @@
   </td>
   
   <!-- Publicación 2 -->
-  <td width="33%" align="center">
+  <td width="30%" align="center">
     <p align="center">
      <a href="https://www.linkedin.com/posts/carlos-marrugo-701261283_springsecurity-jwt-backend-activity-7352033249302310913-7IFo" title="Ver publicación" target="_blank">
         <img align="center" width=100% src="https://github.com/user-attachments/assets/4eb100d1-2939-4476-9d1e-a88947d18c17" alt="Spring Security JWT" /></a>
@@ -114,7 +114,7 @@
   </td>
   
   <!-- Publicación 3 -->
-  <td width="33%" align="center">
+  <td width="40%" align="center">
     <p align="center">
      <a href="https://www.linkedin.com/posts/carlos-marrugo-701261283_jwt-backend-spring-activity-7327604826983309312-Ov8G" title="Ver publicación" target="_blank">
         <img align="center" width=100% src="https://github.com/user-attachments/assets/fa1ae5e3-a6f8-40ef-bf36-48363283d8e6" alt="JWT con Spring" /></a>
