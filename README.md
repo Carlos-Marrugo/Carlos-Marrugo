@@ -27,11 +27,7 @@
 - 💬 &nbsp; Me gusta hablar sobre **Java, Spring Boot, Angular**  
 - 📫 &nbsp; Contáctame en **[LinkedIn](https://www.linkedin.com/in/carlos-marrugo-701261283/)**  
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Carlos-Marrugo" alt="Carlos-Marrugo" />
-  </a> 
-</p>
+
 
 ## 🔥 **Tecnologías y herramientas** 🚀💻
 
