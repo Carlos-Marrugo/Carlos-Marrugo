@@ -1,78 +1,116 @@
-### 🚀 **BIENVENIDO A MI MUNDO DIGITAL!** 🌟🔥💻
+### 🚀 **BIENVENIDO A MI MUNDO DIGITAL** 🌟
 
-<p align="center">
+<div align="center">
   <img src="Imagenes/Black and Gray Minimalist Shapes Personal Profile LinkedIn Banner (7).png" alt="Banner" width="100%">
-</p>
+</div>
 
+<h1 align="center">Carlos Marrugo</h1>
+<h3 align="center">Desarrollador Fullstack | Spring Boot & Angular</h3>
 
-
-<hr style="border: 2px solid #FF5733;">
-
-<h3 align="left">Software Developer</h3>
-
-<h3 align="left">Desarrollador Fullstack especializado en Backend con Spring Boot y Frontend con Angular</h3>
-
-<p align="left">
+<div align="center">
   <a href="https://github.com/Carlos-Marrugo">
     <img src="https://komarev.com/ghpvc/?username=Carlos-Marrugo" alt="Visitas al perfil" />
   </a>
   <a href="https://github.com/Carlos-Marrugo?tab=followers">
     <img alt="GitHub seguidores" src="https://img.shields.io/github/followers/Carlos-Marrugo?style=flat&logo=github">
   </a>
-</p>
+</div>
+
+---
+
+## 👨‍💻 **Sobre Mí**
+
+- 🎓 **Estudiante de Ingeniería de Software**  
+- 🌱 Actualmente aprendiendo **Arquitectura de Microservicios**  
+- 💡 Apasionado por **Java, Spring Boot y desarrollo web**  
+- 📫 Contáctame: **[LinkedIn](https://www.linkedin.com/in/carlos-marrugo-701261283/)**  
 
 <a href="#carlos-marrugo-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Carlos Marrugo" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo&show_icons=true&theme=radical" alt="Estadísticas GitHub" align="right" width="45%"/>
 </a>
 
-- 💼 &nbsp; **Estudiando Ingenieria de Software**  
-- 🌱 &nbsp; Estoy aprendiendo más sobre **Arquitectura de Microservicios**  
-- 💬 &nbsp; Me gusta hablar sobre **Java, Spring Boot, Angular y tecnologías web**  
-- 📫 &nbsp; Contáctame en **[LinkedIn]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/carlos-marrugo-701261283/))**  
+---
 
-## 🔥 **Tecnologías y herramientas** 🚀💻
+## 🛠 **Tecnologías Principales**
 
-**Languages and Tools:** 
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</div>
 
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
-![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?logo=spring&style=social)&nbsp;&nbsp;
-![Spring Security](https://img.shields.io/badge/-Spring%20Security-black?logo=spring&style=social)&nbsp;&nbsp;
-![Hibernate](https://img.shields.io/badge/-Hibernate-black?logo=hibernate&style=social)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)&nbsp;&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=social)&nbsp;&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&style=social)&nbsp;&nbsp;
-![Ionic](https://img.shields.io/badge/-Ionic-black?logo=ionic&style=social)&nbsp;&nbsp;
-![Capacitor](https://img.shields.io/badge/-Capacitor-black?logo=capacitor&style=social)&nbsp;&nbsp;
-![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-black?logo=sass&style=social)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social)&nbsp;&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=social)&nbsp;&nbsp;
-![Supabase](https://img.shields.io/badge/-Supabase-black?logo=supabase&style=social)&nbsp;&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-black?logo=redis&style=social)&nbsp;&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?logo=jenkins&style=social)&nbsp;&nbsp;
-![Apache](https://img.shields.io/badge/-Apache-black?logo=apache&style=social)&nbsp;&nbsp;
+---
 
+## 🎥 **Mis Tutoriales Destacados**
 
-## 🧰 &nbsp;My toolbox
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+[![Spring Boot Introduction](https://img.youtube.com/vi/3RKWGMjbJR4/0.jpg)](https://youtu.be/3RKWGMjbJR4)
+[![Arquitectura Backend](https://img.youtube.com/vi/UEzArbU7q7o/0.jpg)](https://youtu.be/UEzArbU7q7o)
+[![Spring Security](https://img.youtube.com/vi/8ZAz7p9DpIU/0.jpg)](https://youtu.be/8ZAz7p9DpIU)
+
+[![PostgreSQL con Neon](https://img.youtube.com/vi/4Wa743X4MbI/0.jpg)](https://youtu.be/4Wa743X4MbI)
+[![Estructura de Proyecto](https://img.youtube.com/vi/jQvvXaaq17M/0.jpg)](https://youtu.be/jQvvXaaq17M)
+[![Modelo de Entidades](https://img.youtube.com/vi/wE7KIzzSYSU/0.jpg)](https://youtu.be/wE7KIzzSYSU)
+
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/playlist?list=PLA96kRUo8UuB9nBNm2aAYIns67lkI8mb5" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Todos_los_Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Playlist"/>
+  </a>
+</div>
+
+---
+
+## 📝 **Mis Publicaciones en LinkedIn**
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+
+### 🚀 Spring Boot: Buenas Prácticas
+[![Spring Boot Post](https://via.placeholder.com/300x150?text=Spring+Boot+Buenas+Prácticas)](https://www.linkedin.com/posts/carlos-marrugo-701261283_springboot-java-desarrollo-activity-123456789)
+<p>Consejos esenciales para desarrollar aplicaciones robustas con Spring Boot</p>
+<a href="https://www.linkedin.com/posts/carlos-marrugo-701261283_springboot-java-desarrollo-activity-123456789" target="_blank">
+  <img src="https://img.shields.io/badge/Leer_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Leer en LinkedIn"/>
+</a>
+
+### 💡 Angular: Componentes Reutilizables
+[![Angular Post](https://via.placeholder.com/300x150?text=Angular+Componentes+Reutilizables)](https://www.linkedin.com/posts/carlos-marrugo-701261283_angular-frontend-webdevelopment-activity-123456789)
+<p>Cómo crear componentes modulares en Angular para proyectos escalables</p>
+<a href="https://www.linkedin.com/posts/carlos-marrugo-701261283_angular-frontend-webdevelopment-activity-123456789" target="_blank">
+  <img src="https://img.shields.io/badge/Leer_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Leer en LinkedIn"/>
+</a>
+
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/carlos-marrugo-701261283/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_más_publicaciones-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ver más en LinkedIn"/>
+  </a>
+</div>
+
+---
+
+## 🧰 **Toolbox Completa**
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+  <h3>📊 Estadísticas GitHub</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-Marrugo&theme=radical" alt="Estadísticas de racha"/>
+</div>
