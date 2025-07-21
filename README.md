@@ -60,6 +60,8 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?logo=jenkins&style=social)&nbsp;&nbsp;
 ![Apache](https://img.shields.io/badge/-Apache-black?logo=apache&style=social)&nbsp;&nbsp;
 
+
+
 ## 🧰 My Toolbox
 
 <p align="left">
@@ -81,6 +83,47 @@
 [![Desplegando en AWS con Docker](https://ytcards.demolab.com/?id=4Wa743X4MbI&title=Desplegando+en+AWS+con+Docker&lang=es&timestamp=1749744375&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=630 "Desplegando en AWS con Docker")](https://youtu.be/4Wa743X4MbI?si=PXYqbn3zXsmFyYRX)
 [![Patrones de Diseño en Java](https://ytcards.demolab.com/?id=8ZAz7p9DpIU&title=Patrones+de+Diseño+en+Java&lang=es&timestamp=1749052814&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1096 "Patrones de Diseño en Java")](https://youtu.be/8ZAz7p9DpIU?si=Q6BYwQM7g16EdTFc)
 <!-- END YOUTUBE-CARDS -->
+
+## 📝 Últimas Publicaciones en LinkedIn
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 20px;">
+
+<!-- Fila 1 -->
+[![API REST con Spring Boot](https://img.shields.io/badge/🚀_API_REST_con_Spring_Boot-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/carlos-marrugo-701261283_backend-api-java-activity-7321751459241287680-7DJq)
+📅 Publicado: 15 Jul 2024  
+🔥 124 interacciones  
+💬 "Cómo diseñar APIs escalables con Spring Boot 3 y mejores prácticas"
+
+[![Arquitectura Microservicios](https://img.shields.io/badge/🌐_Arquitectura_Microservicios-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/carlos-marrugo-701261283_microservices-architecture-activity-XXXX)
+📅 Publicado: 5 Jul 2024  
+🔥 98 interacciones  
+💬 "Patrones esenciales para sistemas distribuidos"
+
+<!-- Fila 2 -->
+[![Spring Security JWT](https://img.shields.io/badge/🔒_Spring_Security_JWT-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/carlos-marrugo-701261283_jwt-security-spring-activity-XXXX)
+📅 Publicado: 28 Jun 2024  
+🔥 156 interacciones  
+💬 "Implementación segura de autenticación JWT paso a paso"
+
+[![Angular vs React](https://img.shields.io/badge/⚡_Angular_vs_React-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/carlos-marrugo-701261283_frontend-frameworks-activity-XXXX)
+📅 Publicado: 20 Jun 2024  
+🔥 87 interacciones  
+💬 "Comparativa técnica desde mi experiencia fullstack"
+
+<!-- Fila 3 -->
+[![Docker en Producción](https://img.shields.io/badge/🐳_Docker_en_Producción-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/carlos-marrugo-701261283_docker-devops-activity-XXXX)
+📅 Publicado: 12 Jun 2024  
+🔥 112 interacciones  
+💬 "Lecciones aprendidas desplegando contenedores en AWS"
+
+[![Patrones de Diseño](https://img.shields.io/badge/🎯_Patrones_de_Diseño-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/carlos-marrugo-701261283_designpatterns-java-activity-XXXX)
+📅 Publicado: 5 Jun 2024  
+🔥 143 interacciones  
+💬 "Los 5 patrones más útiles para backend en Java"
+
+</div>
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Ver_más_publicaciones-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/carlos-marrugo-701261283/recent-activity/all/)
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Suscríbete%20Para%20Más-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@CarlosMarrugoDev?sub_confirmation=1)
 ## 📝 Últimas Publicaciones
