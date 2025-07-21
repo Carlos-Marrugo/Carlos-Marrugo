@@ -19,7 +19,7 @@
 </p>
 
 <a href="#carlos-marrugo-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo&show_icons=true&theme=radical" alt="Estadísticas de GitHub" align="right" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Carlos-Marrugo&theme=onedark" />
 </a>
 
 - 💼 &nbsp; **Estudiando Ingenieria de Software**  
