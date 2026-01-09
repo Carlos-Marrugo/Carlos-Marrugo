@@ -123,8 +123,3 @@ While backend is my core focus, I’ve also collaborated with frontend applicati
   </td>
 </tr>
 </table>
-## 📊 Estadísticas
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Carlos-Marrugo&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Marrugo&layout=compact&theme=radical)
