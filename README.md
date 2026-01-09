@@ -1,4 +1,4 @@
-### 🚀 **BIENVENIDO A MI MUNDO DIGITAL!** 🌟🔥💻
+### 🚀 **WELCOME TO MY PROJECTS!** 🌟🔥💻
 
 <p align="center">
   <img src="Imagenes/Black and Gray Minimalist Shapes Personal Profile LinkedIn Banner (7).png" alt="Banner" width="100%">
