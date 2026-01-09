@@ -6,23 +6,13 @@
 
 <hr style="border: 2px solid #FF5733;">
 
-<h3 align="left">Software Developer</h3>
-<h3 align="left">Desarrollador Fullstack especializado en Backend con Spring Boot y Frontend con Angular</h3>
+<h3 align="left">Backend Software Developer</h3>
 
-**Desarrollador** **Freelance** desde el **2021**, trabajando con distintos equipos en proyectos que van desde **aplicaciones** **de** **escritorio con Java** hasta **sistemas web con Spring Boot**. Paralelamente, estudio la carrera de **Desarrollo de Software** (que comenzó el mismo año que mi trayectoria freelance), con experiencia previa en programación desde antes de la universidad.
+Backend engineer with 3+ years of experience building and maintaining production-ready backend services and APIs. I mainly work with Java (Spring Boot) and Python (FastAPI), focusing on clean architecture, performance, and maintainability.
 
-**Creador de contenido técnico** especializado en:
-- 🎥 **YouTube** (desde 8 mayo 2023): Más de **150 videos** sobre:
-  - **Backend** (Java, Spring Boot, PHP)
-  - **Bases de datos** (SQL, ORMs, optimización)
-  - **Control de versiones** (Git/GitHub)
-  - Proyectos completos: desde **arquitectura** hasta **despliegue**
-- 📝 **LinkedIn y otras plataformas**: Contenido avanzado sobre:
-  - **Spring Boot** (seguridad, microservicios)
-  - **Buenas prácticas** backend
-  - Casos de estudio para **desarrolladores con experiencia**
+I’ve built cloud-oriented backend systems using asynchronous processing, Docker, and well-structured databases such as PostgreSQL, MySQL, and MongoDB. I have hands-on experience implementing JWT-based authentication and role-based access control for secure APIs.
 
-Paralelamente a mi labor,me he ofrecido a dar **tutorías** a distintos semestres en la universidad enseñando **Java**, comenzando cuando estaba en **tercer semestre**. Más recientemente, en **sexto semestre**, he impartido tutorías a estudiantes de **1° a 5° semestre** de **Ingeniería en Sistemas** todos los días de la semana. 
+While backend is my core focus, I’ve also collaborated with frontend applications using Angular, React, and Next.js, integrating APIs and third-party services to deliver reliable end-to-end solutions.
 
 
 <p align="left">
@@ -34,14 +24,6 @@ Paralelamente a mi labor,me he ofrecido a dar **tutorías** a distintos semestre
   </a>
 </p>
 
-<a href="#carlos-marrugo-title">
-  <img src="https://github-profile-trophy.vercel.app/?username=Carlos-Marrugo&theme=onedark" />
-</a>
-
-- 💼 &nbsp; **Estudiando Ingenieria de Software**  
-- 🌱 &nbsp; Aprendiendo **Arquitectura de Microservicios**  
-- 💬 &nbsp; Me gusta hablar sobre **Java, Spring Boot, Angular**  
-- 📫 &nbsp; Contáctame en **[LinkedIn](https://www.linkedin.com/in/carlos-marrugo-701261283/)**  
 
 
 
