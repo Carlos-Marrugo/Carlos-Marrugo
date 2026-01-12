@@ -27,7 +27,7 @@ While backend is my core focus, I’ve also collaborated with frontend applicati
 
 
 
-## 🔥 **Tecnologías y herramientas** 🚀💻
+## **Technologies and tools I have worked with** 
 
 **Languages and Tools:** 
 
@@ -74,7 +74,7 @@ While backend is my core focus, I’ve also collaborated with frontend applicati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="margin: 0 10px;"/>
 </p>
 
-## 📺 Alguno de mis Videos en YouTube
+## 📺 Some of my Youtube Channel Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Desarrollando una API REST con Spring Boot](https://ytcards.demolab.com/?id=3RKWGMjbJR4&title=Desarrollando+una+API+REST+con+Spring+Boot&lang=es&timestamp=1751899205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1283 "Desarrollando una API REST con Spring Boot")](https://youtu.be/3RKWGMjbJR4?si=yFxKxbmQIieiksdt)
@@ -84,7 +84,7 @@ While backend is my core focus, I’ve also collaborated with frontend applicati
 [![Desplegando en AWS con Docker](https://ytcards.demolab.com/?id=4Wa743X4MbI&title=Desplegando+en+AWS+con+Docker&lang=es&timestamp=1749744375&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=630 "Desplegando en AWS con Docker")](https://youtu.be/4Wa743X4MbI?si=PXYqbn3zXsmFyYRX)
 [![Patrones de Diseño en Java](https://ytcards.demolab.com/?id=8ZAz7p9DpIU&title=Patrones+de+Diseño+en+Java&lang=es&timestamp=1749052814&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1096 "Patrones de Diseño en Java")](https://youtu.be/8ZAz7p9DpIU?si=Q6BYwQM7g16EdTFc)
 <!-- END YOUTUBE-CARDS -->
-## 📺 Algunas de mis publicaciones en LinkedIn
+## 📺 Some of my posts on LinkedIn
 
 <table align="center">
 <tr border="none">
